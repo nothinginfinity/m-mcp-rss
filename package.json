@@ -1,0 +1,20 @@
+{
+  "name": "m-mcp-rss",
+  "version": "0.1.0",
+  "description": "RSS adapter for the m-mcp protocol. Ingests RSS feeds into SignedEnvelopes. Emits agent output as subscribable RSS.",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "lint": "biome check src"
+  },
+  "keywords": ["m-mcp", "rss", "podcast", "ai-agents", "mobile", "protocol"],
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "^1.6.0",
+    "typescript": "^5.4.0",
+    "vitest": "^1.4.0"
+  }
+}

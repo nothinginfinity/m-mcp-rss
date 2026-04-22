@@ -1,0 +1,17 @@
+[
+  {
+    "alias": "joerogan.rss.mmcp",
+    "feedUrl": "https://feeds.simplecast.com/4T39_jAj",
+    "displayName": "The Joe Rogan Experience"
+  },
+  {
+    "alias": "timferriss.rss.mmcp",
+    "feedUrl": "https://rss.art19.com/tim-ferriss-show",
+    "displayName": "The Tim Ferriss Show"
+  },
+  {
+    "alias": "example.rss.mmcp",
+    "feedUrl": "https://example.com/feed.xml",
+    "displayName": "Example Podcast"
+  }
+]
